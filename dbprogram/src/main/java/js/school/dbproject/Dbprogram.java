@@ -2,12 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package js.bmhs.dbproject;
+package js.school.dbproject;
 
-/**
- *
- * @author Paula
- */
+
 public class Dbprogram {
 
     public static void main(String[] args) {
