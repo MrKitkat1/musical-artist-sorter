@@ -8,6 +8,6 @@ package js.school.dbproject;
 public class Dbprogram {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
