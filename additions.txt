@@ -1,0 +1,4 @@
+ADD backups for DB
+Docker
+Setup Spring
+etc etc
